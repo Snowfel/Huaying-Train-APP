@@ -6,6 +6,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "hytrain40.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -16,6 +17,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "hytrain58.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
@@ -26,6 +28,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "hytrain80.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
@@ -36,6 +39,7 @@
       "size" : "76x76"
     },
     {
+      "filename" : "hytrain152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
