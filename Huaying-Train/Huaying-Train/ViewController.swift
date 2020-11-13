@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         wk = WKWebView(frame: frame, configuration: theConfiguration)
         wk.allowsLinkPreview = true
         self.wk.load(NSURLRequest(url:NSURL(string:"https://www.huaying.info/Train/Login/index/authcode/16d902b3-3bfc-47a8-8dc6-081fdc183ea2.html")! as URL) as URLRequest)
+        //self.wk.load(NSURLRequest(url:NSURL(string:"https://www.huaying.info/Sale/Login/index/authcode/16d902b3-3bfc-47a8-8dc6-081fdc183ea2.html")! as URL) as URLRequest)
         self.view.addSubview(self.wk)
     }
 }
